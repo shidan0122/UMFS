@@ -16,5 +16,5 @@ Multo-view extension: Multi-view Unsupervised Multi-label Feature Selection
 2. Classification task: perform SVM (download livSVM package) and ML-KNN (use MLKNN package)
 
 **Evaluation Metrics**
-clustering: accuracy(ACC)and Normalized Mutual Information(NMI)（run 'ClusteringMeasure.m'）
-classification: accuracy; multi-label classifiction: One-Error, Average Precision.
+clustering: accuracy(ACC) and Normalized Mutual Information(NMI)（run 'ClusteringMeasure.m'）
+classification: accuracy; multi-label classifiction: One-Error and Average Precision.
